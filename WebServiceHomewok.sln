@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceHomewok", "WebServiceHomewok\WebServiceHomewok.csproj", "{18B02167-6BC3-44DA-88AA-BBB2518528D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B02167-6BC3-44DA-88AA-BBB2518528D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B02167-6BC3-44DA-88AA-BBB2518528D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B02167-6BC3-44DA-88AA-BBB2518528D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B02167-6BC3-44DA-88AA-BBB2518528D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4903F7F-748D-4577-B4CF-A5F06007A536}
+	EndGlobalSection
+EndGlobal
